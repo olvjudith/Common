@@ -9,3 +9,4 @@ Second Lastname:Romero
 Age: 		22 years old
 
 Giovanni Estuvo Aquí
+Lore estuvo aqui c:
